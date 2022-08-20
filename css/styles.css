@@ -1,0 +1,33 @@
+/** Page 1 */
+
+.elementos {
+    height: 100vh;
+    width: 100%;
+}
+
+#cuerpo {
+    height: 82%;
+}
+
+
+/** Page B */
+
+.icono-tabla {
+    width: 30px;
+}
+
+
+/** Page C */
+
+.icono-boton {
+    width: 40px;
+}
+
+input[type=radio].btn-idioma:checked+label {
+    background-color: rgb(212, 212, 212);
+}
+
+.btn-tareas {
+    background-color: transparent;
+    border-color: transparent;
+}
